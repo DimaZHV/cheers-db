@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"name": "Gradus",
-			"img": "./src/GamePages/GamesPics/gradus.jpg",
+			"img": "http://greenbird-online.com/CheerApp/gradus.jpg",
 			"description": "Gradus will ignite the party, blow up the holiday with jokes, amuse friends with jokes, arrange a roof-blowing rest and even add notes of eroticism. Thematic decks with tasks can be formed according to your preferences, so it will be interesting to play Gradus both in the company of students and in the work team and even in the family circle, removing / adding some decks. Turn any meeting into a flight party, and a classic game of the board game - into a riotous feast!",
 			"link": "https://rozetka.com.ua/ua/bombat_game_4820172800262/p114381355/",
 			"theme": "Alcoholic"
@@ -11,7 +11,7 @@
 		{
 			"id": 2,
 			"name": "Monopoly",
-			"img": "./src/GamePages/GamesPics/monopoly.jpg",
+			"img": "http://greenbird-online.com/CheerApp/monopoly.jpg",
 			"description": "Feel like a real financial tycoon and create your company today with the Monopoly economic game. In the game, the child will be able to rent, buy and sell property, build capital. But you can lose everything by taking a rash step! Bright cards show numbers according to which you need to make a move. Inside you will find cards of several designs, banknotes, branch shares, Chance cards and property tokens. The large playing field is divided into several sectors - property rights, messages, surprises.",
 			"link": "https://rozetka.com.ua/ua/hasbro-326071966/p326071966/",
 			"theme": "Non-Alcoholic"
@@ -19,7 +19,7 @@
 		{
 			"id": 3,
 			"name": "Chpok",
-			"img": "./src/GamePages/GamesPics/Chpok.jpg",
+			"img": "http://greenbird-online.com/CheerApp/Chpok.jpg",
 			"description": "A mixture of debauchery, black humor and dirty jokes - is this about your company? Or you still don't know which famous people your friends would like to sleep with. Then we imagine this Ukrainian localization just for you. You can also use alcohol if you wish. It is necessary to quickly name the word for this letter, after which open a new white card for the next player. ",
 			"link": "https://rozetka.com.ua/ua/362263635/p362263635/",
 			"theme": "Alcoholic"
@@ -27,7 +27,7 @@
 		{
 			"id": 4,
 			"name": "Uno-jenga",
-			"img": "./src/GamePages/GamesPics/uno-jenga.jpg",
+			"img": "http://greenbird-online.com/CheerApp/uno-jenga.jpg",
 			"description": "Fun entertainment for a company of 2 to 10 people - the game \"Skyscraper UNO\". The board game will be able to interest not only children, but also adults, will give the whole family an opportunity to have fun and at the same time develop memory, attentiveness, sense of volume, dexterity and have fun. It is a variant of the well-known game Jenga or falling tower. The language is Ukrainian.",
 			"link": "https://rozetka.com.ua/ua/284611873/p284611873/",
 			"theme": "Non-Alcoholic"
@@ -35,7 +35,7 @@
 		{
 			"id": 5,
 			"name": "Kapitalist",
-			"img": "./src/GamePages/GamesPics/kapitalist.jpg",
+			"img": "http://greenbird-online.com/CheerApp/kapitalist.jpg",
 			"description": "In the board game Capitalist Kyiv, players have the opportunity to become a monopolist in the field of real estate, tourism and transport of Ukraine, earning as much capital as possible, or become the only player who did not go bankrupt. During the movement of chips on the playing field, the player can buy real estate, participate in auctions for its purchase,etc.",
 			"link": "https://rozetka.com.ua/ua/arial_4820059910824/p7751012/",
 			"theme": "Non-Alcoholic"
@@ -43,7 +43,7 @@
 		{
 			"id": 6,
 			"name": "Munchkin",
-			"img": "./src/GamePages/GamesPics/manchkin.jpg",
+			"img": "http://greenbird-online.com/CheerApp/manchkin.jpg",
 			"description": "Thematic edition of the parodic dungeon crawler \"Munchkin\" in a steampunk setting. Heroes put on top hats and goggles, pick up awesome weapons woven from gears, and go to Victorian dungeons to soak monsters - leviathans, homunculi and various steam robots - pump their level and collect treasures. In the Munchkin.Steampunk board game, the hero can belong to the pioneer, mechanic, officer or tradesman class. The \"Supermunchkin\" card allows you to use bonuses of two classes at once.",
 			"link": "https://rozetka.com.ua/ua/tretya-planeta-4820216010053/p353013582/",
 			"theme": "Alcoholic"
@@ -51,7 +51,7 @@
 		{
 			"id": 7,
 			"name": "Drunken-tower",
-			"img": "./src/GamePages/GamesPics/drunken-tower.jpg",
+			"img": "http://greenbird-online.com/CheerApp/drunken-tower.jpg",
 			"description": "Jenga is a complicated variation of the game of cubes - a tower is built from wooden blocks, then you need to pull out any block from the lower \"floors\" so that the whole structure does not collapse. If you combine this task with the use of alcohol, you get a very funny result - after all, the firmness of movements is inversely proportional to the amount of alcohol consumed and the confidence in one's superpowers growing with each glass. As a result, any party turns into fun entertainment, which contributes to the popularity of Drunken Tower Jenga.",
 			"link": "https://rozetka.com.ua/ua/201707023/p201707023/",
 			"theme": "Alcoholic"
@@ -59,7 +59,7 @@
 		{
 			"id": 8,
 			"name": "Alco-roulette",
-			"img": "./src/GamePages/GamesPics/alco-rulet.jpg",
+			"img": "http://greenbird-online.com/CheerApp/alco-rulet.jpg",
 			"description": "Board game Alko Roulette 16 cups. An exciting and provocative board game for adults. A fun pastime and a great mood are guaranteed!",
 			"link": "https://rozetka.com.ua/ua/223652143/p223652143/",
 			"theme": "Alcoholic"
@@ -67,7 +67,7 @@
 		{
 			"id": 9,
 			"name": "Conflict cards",
-			"img": "./src/GamePages/GamesPics/conflict-cards.png",
+			"img": "http://greenbird-online.com/CheerApp/conflict-cards.png",
 			"description": "It happens that friends gather for a party, but gradually it turns into either a languid feast or a theater of one actor, where the best man of the stepsister of your neighbor's great-uncle plays the main role with and without toasts. With the UA Conflict Cards board game, nothing will be able to overshadow your party, because it is incredibly funny fun for a large company, where everyone will easily become a humor generator. The humor is not simple, the humor is black, clockwork...",
 			"link": "https://rozetka.com.ua/ua/219495907/p219495907/",
 			"theme": "Alcoholic"
@@ -75,7 +75,7 @@
 		{
 			"id": 10,
 			"name": "Cats-mems",
-			"img": "./src/GamePages/GamesPics/cats-mems.jpg",
+			"img": "http://greenbird-online.com/CheerApp/cats-mems.jpg",
 			"description": "You are used to seeing ready-made memes on the Internet. But thanks to the game \"Cards, Balls and Cats\" you can create your own and compete with your friends. All you need is a company of people with a sense of humor and a place where you won't disturb anyone with your loud laughter. And without laughter, you definitely won't be able to play.Lay out a card with a picture and choose a saying for it. Whoever creates the funniest meme earns a point. \"Cards, balls and cats\" will become an indispensable attribute of your parties.",
 			"link": "https://rozetka.com.ua/ua/strateg-4823113818814/p345744613/",
 			"theme": "Non-Alcoholic"
@@ -83,7 +83,7 @@
 		{
 			"id": 11,
 			"name": "Tell Me Everything",
-			"img": "./src/GamePages/GamesPics/tell-me-everything.jpg",
+			"img": "http://greenbird-online.com/CheerApp/tell-me-everything.jpg",
 			"description": "Speaking is important. About what amuses and inspires, disturbs and annoys, surrounds and fills. We have created a conversation game Tell me everything Friends edition (in Ukrainian), where cards with questions will set the right pace and mood for a conversation in a new company or in the company of friends. Come together, ask questions, answer, comment, laugh and discuss.",
 			"link": "https://rozetka.com.ua/ua/orner-orner-1607/p335756134/",
 			"theme": "Non-Alcoholic"
@@ -91,7 +91,7 @@
 		{
 			"id": 12,
 			"name": "Doctoring",
-			"img": "./src/GamePages/GamesPics/doctoring.jpg",
+			"img": "http://greenbird-online.com/CheerApp/doctoring.jpg",
 			"description": "The Doctoring game is a chance to feel like a doctor and help patients overcome their illnesses. At the disposal of the players are playing tokens with medicine, playing field-hospital and cards with patients. Players will especially remember a card with a cheerful grandmother, which can appear at any moment of the game. \"Doctoring\" is fun to play for teenagers and adults, it allows you to compete with each other and have fun with friends. Be careful and it will be easy to win.",
 			"link": "https://rozetka.com.ua/ua/strateg_4820220562951/p342680941/",
 			"theme": "Non-Alcoholic"
@@ -99,7 +99,7 @@
 		{
 			"id": 13,
 			"name": "Your Truth, My Action",
-			"img": "./src/GamePages/GamesPics/truth-action.jpg",
+			"img": "http://greenbird-online.com/CheerApp/truth-action.jpg",
 			"description": "The game \"Your truth, my action\" is played by two or a large group. Players take turns answering tricky questions or performing various actions. You can refuse the task, but only twice per game, and if the player refuses for the third time, he loses. It is not possible to choose the Challenge or Truth task more than twice in a row. The winner is the one who holds out until the end of the deck of cards and is honest and brave. Your Truth, My Action is a game for those who choose not to be afraid to speak the truth or do something crazy.",
 			"link": "https://rozetka.com.ua/ua/strateg-4823113816551/p345742867/",
 			"theme": "Non-Alcoholic"
@@ -107,7 +107,7 @@
 		{
 			"id": 14,
 			"name": "Laugh, Drink",
-			"img": "./src/GamePages/GamesPics/laugh-drink.jpg",
+			"img": "http://greenbird-online.com/CheerApp/laugh-drink.jpg",
 			"description": "A game for a company of 3 to 10 emotional friends over 18 years old. The game will also require a little alcohol: in his turn, an active player will try to make his opponent laugh by completing tasks from the card, if he succeeds - the opponent drinks, if not - the player himself drinks. Laugh to tears Of course, you will need a little artistry and imagination, but don't worry, the tasks are written in such a way that it will definitely be interesting, so the game is suitable for a diverse company - both choleric and phlegmatic people will be interested - everyone will laugh!",
 			"link": "https://rozetka.com.ua/ua/363155889/p363155889/",
 			"theme": "Alcoholic"
@@ -115,7 +115,7 @@
 		{
 			"id": 15,
 			"name": "Pictionary",
-			"img": "./src/GamePages/GamesPics/pictionary.jpg",
+			"img": "http://greenbird-online.com/CheerApp/pictionary.jpg",
 			"description": "Introducing Pictionary Air, a new way to play the classic game! Draw in the air or watch the drawing on the screen in an exciting new version of the famous game. Download the Pictionary Air app on your smartphone or tablet to start playing. Point the camera in the app at the artist and he will appear with his drawings on the screen of your device.",
 			"link": "https://rozetka.com.ua/ua/pictionary_gxr16/p257673221/",
 			"theme": "Non-Alcoholic"
